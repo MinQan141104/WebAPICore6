@@ -1,1 +1,2 @@
 .vs/
+MyApiNetCore6/.vs
