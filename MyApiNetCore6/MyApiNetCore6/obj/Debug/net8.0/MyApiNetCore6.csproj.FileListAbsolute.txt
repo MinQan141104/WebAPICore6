@@ -167,3 +167,6 @@ D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\obj\Debug\net8.0\refint\MyApiN
 D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\obj\Debug\net8.0\MyApiNetCore6.pdb
 D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\obj\Debug\net8.0\MyApiNetCore6.genruntimeconfig.cache
 D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\obj\Debug\net8.0\ref\MyApiNetCore6.dll
+D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\bin\Debug\net8.0\AutoMapper.dll
+D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\github\ApiNetCore6\MyApiNetCore6\MyApiNetCore6\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
